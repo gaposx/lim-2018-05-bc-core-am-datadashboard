@@ -1,21 +1,6 @@
 # Data Dashboard en parejas
 
-El data dashboard es un trabajo colaborativo lorem  jsjajajaj
-
-## Colaboradores
-
-+ Ruth Salvador
-+ Daniela Gonzales
-
-## coach
-
-+ gonzalo
-
-# estudiantes
-
-+ anaflavia
-+ rosmery
-+ gonzalo
+El data dashboard es un trabajo colaborativo.
 
 ## tecnologías utilizadas
 
@@ -23,4 +8,3 @@ El data dashboard es un trabajo colaborativo lorem  jsjajajaj
 + html
 + chai & mocha
 + Json
-
