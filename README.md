@@ -11,3 +11,9 @@ El data dashboard es un trabajo colaborativo lorem  jsjajajaj
 
 gonzalo
 
+## tecnologías utilizadas
+
++ js
++ html
++ chai & mocha
++ Json
